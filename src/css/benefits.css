@@ -1,0 +1,13 @@
+.container-benefits {
+  margin-bottom: 50px;
+}
+.benefits-title {
+  width: 400px;
+  padding: 15px;
+  background-color: bisque;
+  border-radius: 20px;
+  text-align: center;
+}
+.benefits-text {
+  font-size: 14px;
+}
